@@ -1,3 +1,9 @@
+## Compress The File
+
+open boot.zip and click uncompress or compress
+
+in linux type unzip boot.zip
+
 # HemeshOS  
 
 Please read this before downloading this img file
