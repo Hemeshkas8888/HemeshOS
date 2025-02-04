@@ -22,7 +22,8 @@ $ sudo pacman -Sy qemu
 
 For MacOS:
 
- > sudo port install qemu
+ $ sudo port install qemu
+
 For Windows:
 in your browser search qemu Download and select one
 next setup install  WSL (Windows Subsystem for Linux)
